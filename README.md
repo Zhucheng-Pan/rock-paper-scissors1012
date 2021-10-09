@@ -23,6 +23,9 @@ Title of project: Rock Paper Scissors
 Phase 1. Requirements Definition:
 
 1.Website will show 3 pictures which are rock, paper, scissors when user click start button.
+
 2.After user choose one picture, website will show the result of the current round.
+
 3.User should play at least 3 rounds of game.
+
 4.After the game is over, the results and order of the games will be displayed.
