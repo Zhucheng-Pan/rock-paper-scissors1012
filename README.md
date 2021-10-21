@@ -11,6 +11,9 @@ Section and Lab : section b, lab04
 Email: pxk2001@my.yorku.ca
 Section and Lab : section b, lab04
 
+3.	Name: Xin Li
+Email: xinli605@my.yorku.ca
+Section and Lab : Section A Lab 01
 
 
 
