@@ -30,3 +30,9 @@ Phase 1. Requirements Definition:
 3.User should play at least 3 rounds of game.
 
 4.After the game is over, the results and order of the games will be displayed.
+
+5. login system for user to register and store match history and score(1 win for 1score, 1 lose for -1 score)
+
+6. ladder board to show top10 score among all registered users
+
+7. allow two player to play PvE match
