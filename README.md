@@ -15,6 +15,9 @@ Section and Lab : section b, lab04
 Email: xinli605@my.yorku.ca
 Section and Lab : Section A Lab 01
 
+4. Name: Ding jingrong
+Email: jenny527@my.yorku.ca
+Section and Lab : Section B Lab 02
 
 
 Title of project: Rock Paper Scissors
