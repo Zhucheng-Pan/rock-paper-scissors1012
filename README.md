@@ -39,3 +39,9 @@ Phase 1. Requirements Definition:
 6. ladder board to show top10 score among all registered users
 
 7. allow two player to play PvE match
+
+8. play music when user victory or defeated.
+
+9. show a pic when user start the game.
+
+10. 
