@@ -44,4 +44,4 @@ Phase 1. Requirements Definition:
 
 9. show a pic when user start the game.
 
-10. 
+10. user has one chance to resurrect.
