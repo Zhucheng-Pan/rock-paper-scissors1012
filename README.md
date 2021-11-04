@@ -3,11 +3,11 @@ Name of team: Computer Science make you bald
 
 
 Members of the team: 
-1.	Name: Zhucheng Pan
+1.Name: Zhucheng Pan
 Email: hbnfvda@my.yorku.ca
 Section and Lab : section b, lab04
 
-2.	Name: Xiaoke Pan
+2.Name: Xiaoke Pan
 Email: pxk2001@my.yorku.ca
 Section and Lab : section b, lab04
 
