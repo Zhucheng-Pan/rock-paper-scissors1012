@@ -26,14 +26,14 @@ Phase 1. Requirements Definition:
 
 4.After the game is over, the results and order of the games will be displayed.
 
-5. login system for user to register and store match history and score(1 win for 1score, 1 lose for -1 score)
+5.login system for user to register and store match history and score(1 win for 1score, 1 lose for -1 score)
 
-6. ladder board to show top10 score among all registered users
+6.Player can check their score after every round.
 
-7. allow two player to play PvE match
+7.Player can create their player name.
 
-8. play music when user victory or defeated.
+8.Player can choose to play background music or mute it.
 
-9. show a pic when user start the game.
+9.Show a pic when user start the game.
 
-10. user has one chance to resurrect.
+10.Player has one chance to replay current round if they lose it.
