@@ -33,7 +33,7 @@ Phase 1. Requirements Definition:
 
 5.login system for user to register and store match history and score(1 win for 1score, 1 lose for -1 score)
 
-6.Player can check their score after every round.
+6.Player can check their current raid score .
 
 7.Player can create their player name.
 
