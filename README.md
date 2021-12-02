@@ -37,7 +37,7 @@ Phase 1. Requirements Definition:
 
 7.Player can create their player name.
 
-8.Player can choose to play background music or mute it.
+8.Player can  play background music or mute it.
 
 9.Show a pic when user start the game.
 
